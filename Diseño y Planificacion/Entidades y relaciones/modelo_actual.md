@@ -185,7 +185,6 @@ erDiagram
     int id_canal FK "Canal por el que se envio"
     int id_staff FK "Staff destinatario (nulo si el destinatario es proveedor)"
     int id_proveedor FK "Proveedor destinatario (nulo si el destinatario es staff)"
-    int destino_contacto 
     date fecha_envio "Fecha de envio de la notificacion"
     string estado_envio "Estado: pendiente, enviado o fallido"
   }
