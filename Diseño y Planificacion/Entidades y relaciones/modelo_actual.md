@@ -1,5 +1,5 @@
 
-[message.txt](https://github.com/user-attachments/files/32713838/message.txt)
+
 ## Sistema de gestión de insumos —
 ### Consultorio Santa María Josefa
 
