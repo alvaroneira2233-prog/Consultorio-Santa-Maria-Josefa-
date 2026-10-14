@@ -29,8 +29,7 @@ Socio comunitario centro medico Santa Maria Josefa, necesita la gestión del alm
 
 [registro etapa 2](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/Registro%20Etapa%202%20Dise%C3%B1o%20y%20Planificaci%C3%B3n%20(2).pdf)
 
-[registro etapa 3](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-
-Josefa-/blob/main/documento%20registros/Registro_Etapa_3_Acercamiento_con_el_Socio_Comunitario.pdf)
+[registro etapa 3](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/Registro_Etapa_3_Acercamiento_con_el_Socio_Comunitario.pdf)
 
 [registro etapa 4](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/Registro%20Etapa%204%20Ejecuci%C3%B3n.pdf)
 
