@@ -37,6 +37,8 @@ Socio comunitario centro medico Santa Maria Josefa, necesita la gestión del alm
 
 [etapa 5 memoria de diseño](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/05_Memoria_de_diseno.pdf)
 
+[etapa registro 6](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/Registro_Etapa_6_Celebraci%C3%B3n_Neira_Martinez%20(1).pdf)
+
 [prototipo de sistema de insumos](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/Prototipo%20Sistema%20de%20Insumos%20-%20Consultorio%20Santa%20Mar%C3%ADa%20Josefa.pdf)
 
 [prototipo manual de usuario](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/documento%20registros/prototipo_manual_usuario.md)
@@ -44,6 +46,7 @@ Socio comunitario centro medico Santa Maria Josefa, necesita la gestión del alm
 ---
 ## requerimientos
 [levantamiento de requerimientos](https://github.com/alvaroneira2233-prog/Consultorio-Santa-Maria-Josefa-/blob/main/requerimientos/levantamientos_requerimientos.md)
+
 ---
 
 
